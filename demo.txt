@@ -3,3 +3,5 @@ This is a new line added to this text file.
 My name is Prathmesh Gawade.
 I am pursuing computer engineering and I am passionate about new evolving technology to learn and implement in real world.
 I am learning full stack development and basics of machine learning for project building.
+
+My Hobbies : I like to watch and play football and cricket.
