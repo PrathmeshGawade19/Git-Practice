@@ -6,4 +6,4 @@ I am learning full stack development and basics of machine learning for project 
 
 My Hobbies : I like to watch and play football and cricket.
 My Project : Amazon font end clone, Leetmetric app, Virtual Board.
-My Academics : 10h - 94% and MHTCET - 96%ile
+My Academics : 10h - 94% and MHTCET - 96%ile marks
