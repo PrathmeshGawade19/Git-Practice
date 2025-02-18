@@ -1,6 +1,6 @@
 This is a plain text file for demo purpose only.
 This is a new line added to this text file.
-My name is Prathmesh Gawade.
+My name is Prathmesh Gawade from VIT Mumbai.
 I am pursuing computer engineering and I am passionate about new evolving technology to learn and implement in real world.
 I am learning full stack development and basics of machine learning for project building.
 
