@@ -5,3 +5,4 @@ I am pursuing computer engineering and I am passionate about new evolving techno
 I am learning full stack development and basics of machine learning for project building.
 
 My Hobbies : I like to watch and play football and cricket.
+My Project : Amazon font end clone, Leetmetric app, Virtual Board.
